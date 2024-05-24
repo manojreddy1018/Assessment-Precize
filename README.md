@@ -1,4 +1,4 @@
-# Assisment-Precize 
+# Assessment 1 -Precize 
 ### To Buid the docker container from docker file.
 ```
 sudo docker build -t python3.
